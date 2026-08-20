@@ -1,7 +1,7 @@
 1. **ARRAYS & HASHING**
     - [x]  Contains Duplicate
-    - [ ]  Valid Anagram
-    - [ ]  Two Sum
+    - [x]  Valid Anagram
+    - [x]  Two Sum
     - [ ]  Group Anagrams
     - [ ]  Top K Frequent Elements
     - [ ]  Product of Array Except Self
