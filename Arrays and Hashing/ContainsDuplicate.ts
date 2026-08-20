@@ -37,6 +37,6 @@ const containsDuplicate = (nums: number[]): boolean => {
 
 console.log(containsDuplicate([1, 2, 3, 4, 5, 3]));
 
-//This solution is a bruteforce search and worst type of solution as the ai said
+//This solution is a bruteforce search and worst type of solution O(n²)
 //For now, this is the solution i came up with
 //I will improve my solutions as I progress further with my checklists
