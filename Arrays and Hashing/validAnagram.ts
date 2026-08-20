@@ -35,3 +35,8 @@ const isAnagram = (s: string, t: string): boolean => {
 
 console.log(isAnagram("hello", "holle")); // true
 console.log(isAnagram("aab", "abb"));     // false
+
+//I have search the internet in this that i should count
+//The frequency first but i cant understand the algorithm
+//Though i also heard that you can sort it first, so i implement the sorting
+//I know this is not the fastest approach but im glad that i solved it on my own
