@@ -3,7 +3,7 @@
     - [x]  Valid Anagram
     - [x]  Two Sum
     - [x]  Group Anagrams
-    - [ ]  Top K Frequent Elements
+    - [x]  Top K Frequent Elements
     - [ ]  Product of Array Except Self
     - [ ]  Valid Sudoku
     - [ ]  Encode and Decode Strings
