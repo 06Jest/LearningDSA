@@ -22,7 +22,10 @@
 
 // Your task: Implement the function and return the resulting array.
 
-
+//Algorithm:
+//Make a prefix array(multiplay each element to previous array starts with 1)
+//Multiply each element with the corresponding index of prefix using suffix array
+//return the product array
 
 const productOfArray = (nums: number[]): number[] => {
   const answer: number[] = [];

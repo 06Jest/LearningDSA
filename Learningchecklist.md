@@ -5,7 +5,7 @@
     - [x]  Group Anagrams
     - [x]  Top K Frequent Elements
     - [x]  Product of Array Except Self
-    - [ ]  Valid Sudoku
+    - [x]  Valid Sudoku
     - [ ]  Encode and Decode Strings
     - [ ]  Longest Consecutive Sequence
 2. **TWO POINTERS**
