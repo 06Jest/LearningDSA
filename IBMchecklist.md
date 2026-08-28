@@ -13,7 +13,7 @@ TWO POINTERS
 
 STACK
 [x] Valid Parentheses
-[ ] Daily Temperatures
+[x] Daily Temperatures
 
 BINARY SEARCH
 [ ] Binary Search

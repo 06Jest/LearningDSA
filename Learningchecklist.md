@@ -19,7 +19,7 @@
     - [ ]  Min Stack
     - [ ]  Evaluate Reverse Polish Notation
     - [ ]  Generate Parentheses
-    - [ ]  Daily Temperatures
+    - [x]  Daily Temperatures
     - [ ]  Car Fleet
     - [ ]  Largest Rectangle in Histogram
 4. **BINARY SEARCH**
