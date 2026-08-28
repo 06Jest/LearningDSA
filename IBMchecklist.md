@@ -9,7 +9,7 @@ ARRAYS & HASHING
 
 TWO POINTERS
 [x] Valid Palindrome
-[ ] Two Sum II
+[x] Two Sum II
 
 STACK
 [ ] Valid Parentheses

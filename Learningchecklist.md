@@ -10,7 +10,7 @@
     - [ ]  Longest Consecutive Sequence
 2. **TWO POINTERS**
     - [x]  Valid Palindrome
-    - [ ]  Two Sum II - Input Array Is Sorted
+    - [x]  Two Sum II - Input Array Is Sorted
     - [ ]  3Sum
     - [ ]  Container With Most Water
     - [ ]  Trapping Rain Water
