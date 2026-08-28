@@ -15,7 +15,7 @@
     - [ ]  Container With Most Water
     - [ ]  Trapping Rain Water
 3. **STACK**
-    - [ ]  Valid Parentheses
+    - [x]  Valid Parentheses
     - [ ]  Min Stack
     - [ ]  Evaluate Reverse Polish Notation
     - [ ]  Generate Parentheses
