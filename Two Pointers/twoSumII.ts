@@ -38,6 +38,7 @@
 // [1, 2]
 
 const twoSumII = (nums: number[], target: number): number[] => {
+
   let left = 0;
   let right = nums.length - 1;
 
@@ -45,10 +46,10 @@ const twoSumII = (nums: number[], target: number): number[] => {
     const sum = nums[left]! + nums[right]!;
 
     if (sum === target) {
-      return [left + 1, right + 1];
+      return [left, right];
     }
 
-    if (sum > target) {
+    if(sum > target){
       right--;
     } else {
       left++;
