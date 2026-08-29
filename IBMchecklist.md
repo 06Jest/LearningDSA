@@ -16,7 +16,7 @@ STACK
 [x] Daily Temperatures
 
 BINARY SEARCH
-[ ] Binary Search
+[x] Binary Search
 
 SLIDING WINDOW
 [ ] Best Time to Buy and Sell Stock

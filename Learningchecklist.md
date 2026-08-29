@@ -23,7 +23,7 @@
     - [ ]  Car Fleet
     - [ ]  Largest Rectangle in Histogram
 4. **BINARY SEARCH**
-    - [ ]  Binary Search
+    - [x]  Binary Search
     - [ ]  Search a 2D Matrix
     - [ ]  Koko Eating Bananas
     - [ ]  Find Minimum in Rotated Sorted Array
