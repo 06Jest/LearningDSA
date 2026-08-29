@@ -19,7 +19,7 @@ BINARY SEARCH
 [x] Binary Search
 
 SLIDING WINDOW
-[ ] Best Time to Buy and Sell Stock
+[x] Best Time to Buy and Sell Stock
 [ ] Longest Substring Without Repeating Characters
 
 LINKED LIST
