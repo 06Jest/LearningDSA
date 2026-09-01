@@ -39,7 +39,7 @@
 // }
 //This was my own code but this feels ineffecient so i will look for better approach
 
-const validPalindrome = (s: string):boolean => {
+const validPalindrome = (s: string): boolean => {
   let left = 0;
   let right = s.length - 1;
 
@@ -47,16 +47,23 @@ const validPalindrome = (s: string):boolean => {
     while (left < right && !/[a-zA-Z0-9]/.test(s[left]!)) {
       left++;
     }
+
     while (left < right && !/[a-zA-Z0-9]/.test(s[right]!)) {
-      right++;
+      right--;
     }
 
-    if(s[left]?.toLowerCase !== s[right]?.toLowerCase){
+    if (s[left]!.toLowerCase() !== s[right]!.toLowerCase()) {
       return false;
     }
+
+    left++;
+    right--;
   }
+
   return true;
-}
+};
+
+
 
 console.log(validPalindrome("racecar"));
 console.log(validPalindrome("race a car")); 
