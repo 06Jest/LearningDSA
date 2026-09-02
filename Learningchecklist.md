@@ -6,8 +6,8 @@
     - [x]  Top K Frequent Elements
     - [x]  Product of Array Except Self
     - [x]  Valid Sudoku
-    - [ ]  Encode and Decode Strings
-    - [ ]  Longest Consecutive Sequence
+    - [x]  Encode and Decode Strings
+    - [x]  Longest Consecutive Sequence
 2. **TWO POINTERS**
     - [x]  Valid Palindrome
     - [x]  Two Sum II - Input Array Is Sorted
