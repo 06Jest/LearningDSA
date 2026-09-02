@@ -11,7 +11,7 @@
 2. **TWO POINTERS**
     - [x]  Valid Palindrome
     - [x]  Two Sum II - Input Array Is Sorted
-    - [ ]  3Sum
+    - [x]  3Sum
     - [ ]  Container With Most Water
     - [ ]  Trapping Rain Water
 3. **STACK**
