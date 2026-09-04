@@ -13,7 +13,7 @@
     - [x]  Two Sum II - Input Array Is Sorted
     - [x]  3Sum
     - [x]  Container With Most Water
-    - [ ]  Trapping Rain Water
+    - [x]  Trapping Rain Water
 3. **STACK**
     - [x]  Valid Parentheses
     - [ ]  Min Stack
