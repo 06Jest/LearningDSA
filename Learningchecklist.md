@@ -16,7 +16,7 @@
     - [x]  Trapping Rain Water
 3. **STACK**
     - [x]  Valid Parentheses
-    - [ ]  Min Stack
+    - [x]  Min Stack
     - [ ]  Evaluate Reverse Polish Notation
     - [ ]  Generate Parentheses
     - [x]  Daily Temperatures
