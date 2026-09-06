@@ -17,7 +17,7 @@
 3. **STACK**
     - [x]  Valid Parentheses
     - [x]  Min Stack
-    - [ ]  Evaluate Reverse Polish Notation
+    - [x]  Evaluate Reverse Polish Notation
     - [ ]  Generate Parentheses
     - [x]  Daily Temperatures
     - [ ]  Car Fleet
