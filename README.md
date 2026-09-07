@@ -13,7 +13,7 @@ The goal is to understand the underlying patterns and problem-solving techniques
 
 ## Problem Categories
 
-* [ ] Arrays & Hashing
+* [x] Arrays & Hashing
 * [ ] Two Pointers
 * [ ] Sliding Window
 * [ ] Stack
