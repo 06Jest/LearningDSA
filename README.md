@@ -14,7 +14,7 @@ The goal is to understand the underlying patterns and problem-solving techniques
 ## Problem Categories
 
 * [x] Arrays & Hashing
-* [ ] Two Pointers
+* [x] Two Pointers
 * [ ] Sliding Window
 * [ ] Stack
 * [ ] Binary Search
